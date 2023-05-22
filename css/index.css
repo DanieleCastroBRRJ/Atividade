@@ -1,0 +1,26 @@
+
+body {
+
+}
+
+article {
+    background-color: aqua;
+}
+
+/* Em class se . ponto final antes do nome */
+.article1 {
+    background-color: rgb(85, 60, 60);
+}
+
+/* Em id se usa # hash */
+
+#historia {
+   
+}
+
+.img-borda {
+    margin-left: 3rem;
+    float: left;
+    height: 500px;
+    border-radius: 1rem;
+}
